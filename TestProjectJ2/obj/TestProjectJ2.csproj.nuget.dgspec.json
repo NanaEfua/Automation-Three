@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\efuab\\source\\repos\\TestProjectJ2\\TestProjectJ2\\TestProjectJ2.csproj": {}
+    "C:\\Users\\efuab\\source\\repos\\Repo Three\\Automation-Three\\TestProjectJ2\\TestProjectJ2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\efuab\\source\\repos\\TestProjectJ2\\TestProjectJ2\\TestProjectJ2.csproj": {
+    "C:\\Users\\efuab\\source\\repos\\Repo Three\\Automation-Three\\TestProjectJ2\\TestProjectJ2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\efuab\\source\\repos\\TestProjectJ2\\TestProjectJ2\\TestProjectJ2.csproj",
+        "projectUniqueName": "C:\\Users\\efuab\\source\\repos\\Repo Three\\Automation-Three\\TestProjectJ2\\TestProjectJ2.csproj",
         "projectName": "TestProjectJ2",
-        "projectPath": "C:\\Users\\efuab\\source\\repos\\TestProjectJ2\\TestProjectJ2\\TestProjectJ2.csproj",
+        "projectPath": "C:\\Users\\efuab\\source\\repos\\Repo Three\\Automation-Three\\TestProjectJ2\\TestProjectJ2.csproj",
         "packagesPath": "C:\\Users\\efuab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\efuab\\source\\repos\\TestProjectJ2\\TestProjectJ2\\obj\\",
+        "outputPath": "C:\\Users\\efuab\\source\\repos\\Repo Three\\Automation-Three\\TestProjectJ2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\efuab\\AppData\\Roaming\\NuGet\\NuGet.Config",
